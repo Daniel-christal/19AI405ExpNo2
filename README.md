@@ -91,6 +91,7 @@ F H <BR>
 <hr>
 
 # Program:
+```
 #import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
@@ -113,10 +114,10 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
+```
 
 
-
-
+```
 #import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
@@ -139,6 +140,7 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
+```
 # Output:
 ![image](https://github.com/Daniel-christal/19AI405ExpNo2/assets/145742847/834a445b-2f40-4400-a341-c482feae9f45)
 
