@@ -146,7 +146,7 @@ print(traversedpath)
 
 ![image](https://github.com/Daniel-christal/19AI405ExpNo2/assets/145742847/70a73437-74bb-487f-a4c3-4d9d7b9f672c)
 
-<h3>Result:</h3>
-<hr>
-<p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
+# Result:
+
+Thus, a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
 
